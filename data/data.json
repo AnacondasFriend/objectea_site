@@ -1,0 +1,232 @@
+{   "teatype":{
+        "white":"Белый чай",
+        "green":"Зелёный чай",
+        "yellow":"Жёлтый чай",
+        "red":"Красный чай",
+        "black":"Чёрный чай",
+        "shupuer":"Шу пуэр",
+        "shenpuer":"Шэн пуэр"
+    },
+    "products":[
+        {
+            "id":1,
+            "name":"название чая1",
+            "description":"Описание",
+            "year": 1970,
+            "type":"white",            
+            "price": 1000,
+            "img": "../images/dist/1.webp"
+
+        },
+        {
+            "id":2,
+            "name":"название чая2",
+            "description":"Описание",
+            "year": 1980,
+            "type":"white",            
+            "price": 700,
+            "img": "../images/dist/2.webp"
+
+        },
+        {
+            "id":3,
+            "name":"название чая3",
+            "description":"Описание",
+            "year": 2000,
+            "type":"green",            
+            "price": 100,
+            "img": "../images/dist/3.webp"
+
+        },
+        {
+            "id":4,
+            "name":"название чая4",
+            "description":"Описание",
+            "year": 2019,
+            "type":"shupuer",            
+            "price": 6,
+            "img": "../images/dist/4.webp"
+
+        },
+        {
+            "id":5,
+            "name":"название чая5",
+            "description":"Описание",
+            "year": 2019,
+            "type":"shenpuer",            
+            "price": 7,
+            "img": "../images/dist/5.webp"
+
+        },
+        {
+            "id":6,
+            "name":"название чая6",
+            "description":"Описание",
+            "year": 2001,
+            "type":"black",            
+            "price": 50,
+            "img": "../images/dist/6.webp"
+
+        },
+        {
+            "id":7,
+            "name":"название чая7",
+            "description":"Описание",
+            "year": 2022,
+            "type":"yellow",            
+            "price": 5,
+            "img": "../images/dist/7.webp"
+
+        },
+        {
+            "id":8,
+            "name":"название чая8",
+            "description":"Описание",
+            "year": 2015,
+            "type":"red",            
+            "price": 17,
+            "img": "../images/dist/8.webp"
+
+        },
+        {
+            "id":9,
+            "name":"название чая9",
+            "description":"Описание",
+            "year": 2007,
+            "type":"black",            
+            "price": 24,
+            "img": "../images/dist/9.webp"
+
+        },
+        {
+            "id":10,
+            "name":"название чая10",
+            "description":"Описание",
+            "year": 2014,
+            "type":"yellow",            
+            "price": 15,
+            "img": "../images/dist/10.webp"
+
+        },
+        {
+            "id":11,
+            "name":"название чая11",
+            "description":"Описание",
+            "year": 2010,
+            "type":"red",            
+            "price": 10,
+            "img": "../images/dist/11.webp"
+
+        },
+        {
+            "id":12,
+            "name":"название чая12",
+            "description":"Описание",
+            "year": 2007,
+            "type":"green",            
+            "price": 13,
+            "img": "../images/dist/12.webp"
+
+        },
+        {
+            "id":13,
+            "name":"название чая13",
+            "description":"Описание",
+            "year": 2005,
+            "type":"yellow",            
+            "price": 19,
+            "img": "../images/dist/13.webp"
+
+        },
+        {
+            "id":14,
+            "name":"название чая14",
+            "description":"Описание",
+            "year": 2009,
+            "type":"shenpuer",            
+            "price": 25,
+            "img": "../images/dist/14.webp"
+
+        },
+        {
+            "id":15,
+            "name":"название чая15",
+            "description":"Описание",
+            "year": 1998,
+            "type":"shupuer",            
+            "price": 20,
+            "img": "../images/dist/15.webp"
+
+        },
+        {
+            "id":16,
+            "name":"название чая16",
+            "description":"Описание",
+            "year": 1995,
+            "type":"shenpuer",            
+            "price": 1000,
+            "img": "../images/dist/16.webp"
+
+        },
+        {
+            "id":17,
+            "name":"название чая17",
+            "description":"Описание",
+            "year": 2001,
+            "type":"black",            
+            "price": 15,
+            "img": "../images/dist/17.webp"
+
+        },
+        {
+            "id":18,
+            "name":"название чая18",
+            "description":"Описание",
+            "year": 2021,
+            "type":"red",            
+            "price": 9,
+            "img": "../images/dist/18.webp"
+
+        },
+        {
+            "id":19,
+            "name":"название чая19",
+            "description":"Описание",
+            "year": 1999,
+            "type":"green",            
+            "price": 15,
+            "img": "../images/dist/19.webp"
+
+        },
+        {
+            "id":20,
+            "name":"название чая20",
+            "description":"Описание",
+            "year": 2010,
+            "type":"shenpuer",            
+            "price": 15,
+            "img": "../images/dist/20.webp"
+
+        },
+        {
+            "id":21,
+            "name":"название чая21",
+            "description":"Описание",
+            "year": 1985,
+            "type":"shupuer",            
+            "price": 999,
+            "img": "../images/dist/21.webp"
+
+        },
+        {
+            "id":22,
+            "name":"название чая22",
+            "description":"Описание",
+            "year": 2003,
+            "type":"black",            
+            "price": 3,
+            "img": "../images/dist/22.webp"
+
+        }
+    ]
+}
