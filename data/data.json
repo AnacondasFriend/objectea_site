@@ -155,7 +155,7 @@
             "year": 1998,
             "type":"shupuer",            
             "price": 20,
-            "img": "../images/dist/15.webp"
+            "img": "images/dist/15.webp"
 
         },
         {
