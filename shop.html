@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,7 +7,7 @@
     <title>OBJECTEA |магазин</title>
 </head>
 <body>
-    <header></hader><h1><a href="index.html">OBJECTEA</a></h1></header>
+    <header><h1><a href="index.html">OBJECTEA</a></h1></header>
     <main class="mainShop">
         <button class="bin">Корзина<img src="icons/korzina.svg" alt="корзина"></button>        
         <div class="viewPannel">
@@ -29,29 +29,29 @@
             <div class="filter-wrapper">
                 <h1 class="filter">Категория</h1>
                 <ul>
-                    <li><label><input class="tea-category white" type="checkbox"/>Белый чай</label></li>
-                    <li><label><input class="tea-category green" type="checkbox"/>Зеленый чай</label></li>
-                    <li><label><input class="tea-category yellow" type="checkbox"/>Жёлтый чай</label></li>
-                    <li><label><input class="tea-category red" type="checkbox"/>Красный чай</label></li>
-                    <li><label><input class="tea-category black" type="checkbox"/>Чёрный чай</label></li>
-                    <li><label><input class="tea-category shupuer" type="checkbox"/>Шу пуэр</label></li>
-                    <li><label><input class="tea-category shenpuer" type="checkbox"/>Шэн пуэр</label></li>
+                    <li><label><input class="tea-category white" type="checkbox">Белый чай</label></li>
+                    <li><label><input class="tea-category green" type="checkbox">Зеленый чай</label></li>
+                    <li><label><input class="tea-category yellow" type="checkbox">Жёлтый чай</label></li>
+                    <li><label><input class="tea-category red" type="checkbox">Красный чай</label></li>
+                    <li><label><input class="tea-category black" type="checkbox">Чёрный чай</label></li>
+                    <li><label><input class="tea-category shupuer" type="checkbox">Шу пуэр</label></li>
+                    <li><label><input class="tea-category shenpuer" type="checkbox">Шэн пуэр</label></li>
                 </ul>
             </div>
             <div class="filter-wrapper">
                 <h1 class="filter">Ценовая категория</h1>
                 <ul>
-                    <li><label><input class="price-category all-cat" name="price-category" type="radio" checked/>любая</label></li>
-                    <li><label><input class="price-category" name="price-category" value="10" type="radio"/>до 10р/г</label></li>
-                    <li><label><input class="price-category" name="price-category" value="50" type="radio"/>до 50р/г</label></li>
-                    <li><label><input class="price-category" name="price-category" value="100" type="radio"/>до 100р/г</label></li>
-                    <li><label><input class="price-category" name="price-category" value="more100" type="radio"/>от 100р/г</label></li>
+                    <li><label><input class="price-category all-cat" name="price-category" type="radio" checked>любая</label></li>
+                    <li><label><input class="price-category" name="price-category" value="10" type="radio">до 10р/г</label></li>
+                    <li><label><input class="price-category" name="price-category" value="50" type="radio">до 50р/г</label></li>
+                    <li><label><input class="price-category" name="price-category" value="100" type="radio">до 100р/г</label></li>
+                    <li><label><input class="price-category" name="price-category" value="more100" type="radio">от 100р/г</label></li>
                 </ul>
             </div>
             <br>    
             <div class="filterButtons">
-                <input class="resetFilters btn-style2" type="button" value="Сбросить фильтры">
-                <input class="submitFilters btn-style1" type="button" value="Применить">   
+                <input class="resetFilters" type="button" value="Сбросить фильтры">
+                <input class="submitFilters" type="button" value="Применить">   
             </div>
         </aside>
         <div class="products">
@@ -64,21 +64,21 @@
         <div class="shoppingCart-products"></div>
         <div class="result-sum">
             <span class="finally-sum">Итого:</span>
-            <span><button class="send-data btn-style1">Оформить заказ</button></span>
+            <span><button class="send-data">Оформить заказ</button></span>
         </div>
     </div>
     <div class="order">
-        <button class="backToCart btn-style1">
+        <button class="backToCart">
             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left" viewBox="0 0 16 16">
                 <path fill-rule="evenodd" d="M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5A.5.5 0 0 0 15 8z"/>
             </svg>
             назад</button>
         <form action="">
-            <label for="">ФИО<input type="text" placeholder="Иванов Иван Иванович"></label>
-            <label for="">Адрес<input type="text" placeholder="г.Волгоград ул.Волгоградская д.111 кв.1"></label>
-            <label for="">Номер телефона<input type="text" placeholder="+79876543210"></label>
-            <label for="">Почтовый ящик<input type="email" placeholder="yourmail@yourmail.ru"></label>
-            <button class="send-order btn-style1">Заказать</button>
+            <label>ФИО<input type="text" placeholder="Иванов Иван Иванович"></label>
+            <label>Адрес<input type="text" placeholder="г.Волгоград ул.Волгоградская д.111 кв.1"></label>
+            <label>Номер телефона<input type="text" placeholder="+79876543210"></label>
+            <label>Почтовый ящик<input type="email" placeholder="yourmail@yourmail.ru"></label>
+            <button class="send-order">Заказать</button>
         </form>
     </div>
     <footer>
