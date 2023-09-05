@@ -15,7 +15,7 @@
             "year": 1970,
             "type":"white",            
             "price": 1000,
-            "img": "../images/dist/1.webp"
+            "img": "images/dist/1.webp"
 
         },
         {
@@ -25,7 +25,7 @@
             "year": 1980,
             "type":"white",            
             "price": 700,
-            "img": "../images/dist/2.webp"
+            "img": "images/dist/2.webp"
 
         },
         {
@@ -35,7 +35,7 @@
             "year": 2000,
             "type":"green",            
             "price": 100,
-            "img": "../images/dist/3.webp"
+            "img": "images/dist/3.webp"
 
         },
         {
@@ -45,7 +45,7 @@
             "year": 2019,
             "type":"shupuer",            
             "price": 6,
-            "img": "../images/dist/4.webp"
+            "img": "images/dist/4.webp"
 
         },
         {
@@ -55,7 +55,7 @@
             "year": 2019,
             "type":"shenpuer",            
             "price": 7,
-            "img": "../images/dist/5.webp"
+            "img": "images/dist/5.webp"
 
         },
         {
@@ -65,7 +65,7 @@
             "year": 2001,
             "type":"black",            
             "price": 50,
-            "img": "../images/dist/6.webp"
+            "img": "images/dist/6.webp"
 
         },
         {
@@ -75,7 +75,7 @@
             "year": 2022,
             "type":"yellow",            
             "price": 5,
-            "img": "../images/dist/7.webp"
+            "img": "images/dist/7.webp"
 
         },
         {
@@ -85,7 +85,7 @@
             "year": 2015,
             "type":"red",            
             "price": 17,
-            "img": "../images/dist/8.webp"
+            "img": "images/dist/8.webp"
 
         },
         {
@@ -95,7 +95,7 @@
             "year": 2007,
             "type":"black",            
             "price": 24,
-            "img": "../images/dist/9.webp"
+            "img": "images/dist/9.webp"
 
         },
         {
@@ -105,7 +105,7 @@
             "year": 2014,
             "type":"yellow",            
             "price": 15,
-            "img": "../images/dist/10.webp"
+            "img": "images/dist/10.webp"
 
         },
         {
@@ -115,7 +115,7 @@
             "year": 2010,
             "type":"red",            
             "price": 10,
-            "img": "../images/dist/11.webp"
+            "img": "images/dist/11.webp"
 
         },
         {
@@ -125,7 +125,7 @@
             "year": 2007,
             "type":"green",            
             "price": 13,
-            "img": "../images/dist/12.webp"
+            "img": "images/dist/12.webp"
 
         },
         {
@@ -135,7 +135,7 @@
             "year": 2005,
             "type":"yellow",            
             "price": 19,
-            "img": "../images/dist/13.webp"
+            "img": "images/dist/13.webp"
 
         },
         {
@@ -145,7 +145,7 @@
             "year": 2009,
             "type":"shenpuer",            
             "price": 25,
-            "img": "../images/dist/14.webp"
+            "img": "images/dist/14.webp"
 
         },
         {
@@ -165,7 +165,7 @@
             "year": 1995,
             "type":"shenpuer",            
             "price": 1000,
-            "img": "../images/dist/16.webp"
+            "img": "images/dist/16.webp"
 
         },
         {
@@ -175,7 +175,7 @@
             "year": 2001,
             "type":"black",            
             "price": 15,
-            "img": "../images/dist/17.webp"
+            "img": "images/dist/17.webp"
 
         },
         {
@@ -185,7 +185,7 @@
             "year": 2021,
             "type":"red",            
             "price": 9,
-            "img": "../images/dist/18.webp"
+            "img": "images/dist/18.webp"
 
         },
         {
@@ -195,7 +195,7 @@
             "year": 1999,
             "type":"green",            
             "price": 15,
-            "img": "../images/dist/19.webp"
+            "img": "images/dist/19.webp"
 
         },
         {
@@ -205,7 +205,7 @@
             "year": 2010,
             "type":"shenpuer",            
             "price": 15,
-            "img": "../images/dist/20.webp"
+            "img": "images/dist/20.webp"
 
         },
         {
@@ -215,7 +215,7 @@
             "year": 1985,
             "type":"shupuer",            
             "price": 999,
-            "img": "../images/dist/21.webp"
+            "img": "images/dist/21.webp"
 
         },
         {
@@ -225,7 +225,7 @@
             "year": 2003,
             "type":"black",            
             "price": 3,
-            "img": "../images/dist/22.webp"
+            "img": "images/dist/22.webp"
 
         }
     ]
