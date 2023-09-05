@@ -51,7 +51,7 @@ function createCard(id, productName, desc, year, type, price, img){
                         <p class='teaCategory ${type}'>Категория: ${teaObject[type]}</p>
                     </div>
                     <br>
-                    <button class='addToCart'>добавить в корзину</button>
+                    <button class='addToCart btn-style2'>добавить в корзину</button>
                 </div>
             </div>`
 }
@@ -319,6 +319,13 @@ function backToCart(){
     showShoppingCart();
 }
 
+function hideChecksInFilters(){
+    for(let filter of filters){
+                ul = filter.nextElementSibling;
+                ul.classList.remove('unhideElem');
+            }       
+}
+
 request.open("GET", requestURL);
 request.responseType = "json";
 request.send();
@@ -339,6 +346,8 @@ for(let filter of filters){
         if(document.body.clientWidth < 820){
             ul = filter.nextElementSibling;
             ul.classList.toggle('unhideElem');
+            submitFilters.addEventListener('click', hideChecksInFilters);
+            resetFilters.addEventListener('click', hideChecksInFilters);
         }
     })
 }
