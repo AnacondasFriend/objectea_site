@@ -190,6 +190,7 @@ function showDetails(){
     for(card of productCards){
         card.classList.add('productDetails');       
         card.querySelector('.addInfo').style.display = 'inline-block';
+        card.style.textAlign = 'left';
         card.querySelector('img').style.float = 'left';
     }
 }
@@ -200,6 +201,7 @@ function hideDetails(){
     for(card of productCards){
         card.classList.remove('productDetails');        
         card.querySelector('.addInfo').style.display = 'none';
+        card.style.textAlign = 'center';
     }
 }
 
